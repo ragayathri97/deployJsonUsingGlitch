@@ -1,51 +1,98 @@
 {
-  "posts": [
+  "men-products": [
     {
-      "id": "1",
-      "title": "First Post",
-      "views": 150
+      "id": 101,
+      "title": "Men's T-Shirt",
+      "price": 20,
+      "rating": 4.5,
+      "stock": 5,
+      "quantity": 1,
+      "image":"images/101.jpg"
     },
     {
-      "id": "2",
-      "title": "Second Post",
-      "views": 250
+      "id": 102,
+      "title": "Men's Jeans",
+      "price": 40,
+      "rating": 4.2,
+      "stock": 3,
+      "quantity": 1,
+      "image":"images/102.jpg"
     },
     {
-      "id": "3",
-      "title": "Third Post",
-      "views": 350
+      "id": 103,
+      "title": "Sweaters & Cardigans",
+      "price": 40,
+      "rating": 4.5,
+      "stock": 5,
+      "quantity": 1,
+      "image":"images/103.jpg"
     },
     {
-      "id": "4",
-      "title": "Fourth Post",
-      "views": 450
+      "id": 104,
+      "title": "Belts",
+      "price": 50,
+      "rating": 4.2,
+      "stock": 3,
+      "quantity": 1,
+      "image":"images/104.jpg"
     }
   ],
-  "comments": [
+  "ladies-products": [
     {
-      "id": "1",
-      "text": "Great post!",
-      "postId": "1"
+      "id": 201,
+      "title": "Ladies' Dress",
+      "price": 60,
+      "rating": 4.8,
+      "stock": 2,
+      "quantity": 1,
+      "image":"images/201.jpg"
     },
     {
-      "id": "2",
-      "text": "Very informative.",
-      "postId": "2"
+      "id": 202,
+      "title": "Ladies' Handbag",
+      "price": 80,
+      "rating": 4.7,
+      "stock": 10,
+      "quantity": 1,
+      "image":"images/202.jpg"
     },
     {
-      "id": "3",
-      "text": "I enjoyed reading this.",
-      "postId": "3"
+      "id": 203,
+      "title": "clip",
+      "price": 80,
+      "rating": 4.7,
+      "stock": 10,
+      "quantity": 1,
+      "image":"images/203.jpg"
+    }
+  ],
+  "kids-products": [
+    {
+      "id": 301,
+      "title": "Kids' T-Shirt",
+      "price": 15,
+      "rating": 4.6,
+      "stock": 10,
+      "quantity": 1,
+      "image":"images/301.jpg"
     },
     {
-      "id": "4",
-      "text": "Thanks for sharing!",
-      "postId": "4"
+      "id": 302,
+      "title": "Kids' Shorts",
+      "price": 25,
+      "rating": 4.4,
+      "stock": 5,
+      "quantity": 1,
+      "image":"images/302.jpg"
     },
     {
-      "id": "5",
-      "text": "Awesome post!",
-      "postId": "5"
+      "id": 303,
+      "title": "toys",
+      "price": 25,
+      "rating": 4.4,
+      "stock": 5,
+      "quantity": 1,
+      "image":"images/303.jpg"
     }
   ]
 }
