@@ -84,15 +84,6 @@
       "stock": 5,
       "quantity": 1,
       "image":"images/302.jpg"
-    },
-    {
-      "id": 303,
-      "title": "toys",
-      "price": 25,
-      "rating": 4.4,
-      "stock": 5,
-      "quantity": 1,
-      "image":"images/303.jpg"
     }
   ]
 }
